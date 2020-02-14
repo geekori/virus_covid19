@@ -6,8 +6,8 @@
 
 ![仿真器主界面](pictures/main.png)
 
-设置器界面
-![仿真器主界面](pictures/settings.png)
+
+![设置程序主界面](pictures/settings.png,"设置程序主界面")
 
 
 《冠状病毒传播仿真器》使用了Python语言和PyQt5技术，如果对这两种技术不了解的同学可以参考下面的课程
