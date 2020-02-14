@@ -13,4 +13,4 @@
 《冠状病毒传播仿真器》使用了Python语言和PyQt5技术，如果对这两种技术不了解的同学可以参考下面的课程
 
 
-[![仿真器主界面](pictures/01.png "仿真器主界面")](https://edu.51cto.com/sd/eee18)
+[![仿真器主界面](pictures/01.jpg "仿真器主界面")](https://edu.51cto.com/sd/eee18)
