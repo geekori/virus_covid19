@@ -2,12 +2,11 @@
 
 使用PyCharm开发，pull后，直接用PyCharm打开即可。运行工程根目录的run.py可启动仿真器。运行settings中run.py可启动设置程序。
 
-仿真器界面
 
-![仿真器主界面](pictures/main.png)
+![仿真器主界面](pictures/main.png "仿真器主界面")
 
 
-![设置程序主界面](pictures/settings.png,"设置程序主界面")
+![设置程序主界面](pictures/settings.png "设置程序主界面")
 
 
 《冠状病毒传播仿真器》使用了Python语言和PyQt5技术，如果对这两种技术不了解的同学可以参考下面的课程
