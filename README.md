@@ -21,4 +21,4 @@
 
 [PyQt5（Python）实战视频课程](https://ke.qq.com/course/374285?tuin=a22a65ce)
 
-[冠状病毒传播仿真器（Python版本）](https://edu.51cto.com/sd/eee18)
+[冠状病毒传播仿真器（Python版本）](https://ke.qq.com/course/1045964?tuin=a22a65ce#term_id=101141873)
